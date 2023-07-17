@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MonitoraUFRGS_APP
 build_property.RootNamespace = MonitoraUFRGS_APP
-build_property.ProjectDir = C:\Users\jonat\source\repos\JonMendes\MonitoraUFRGS\MonitoraUFRGS-APP\MonitoraUFRGS-APP\
+build_property.ProjectDir = C:\Users\ericp\Desktop\UFRGS\2023-1\EngSoft\Code\MonitoraUFRGS-APP\MonitoraUFRGS-APP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jonat\source\repos\JonMendes\MonitoraUFRGS\MonitoraUFRGS-APP\MonitoraUFRGS-APP
+build_property.MSBuildProjectDirectory = C:\Users\ericp\Desktop\UFRGS\2023-1\EngSoft\Code\MonitoraUFRGS-APP\MonitoraUFRGS-APP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/Cancelar.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/Cancelar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW5jZWxhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/Confirmar.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/Confirmar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/SolicitarAula.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Home/SolicitarAula.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2xpY2l0YXJBdWxhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/Error.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/_ViewImports.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/_ViewStart.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jonat/source/repos/JonMendes/MonitoraUFRGS/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/_Layout.cshtml]
+[C:/Users/ericp/Desktop/UFRGS/2023-1/EngSoft/Code/MonitoraUFRGS-APP/MonitoraUFRGS-APP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n1iutynkbb

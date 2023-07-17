@@ -1,0 +1,28 @@
+@using (Html.BeginForm("Confirmar", "Confirmar", FormMethod.Post))
+{
+    <div>@Html.Label("Selecione a aula que deseja confirmar")</div>
+
+    List<SelectListItem> listaAulas = new List<SelectListItem>();
+
+    listaAulas.Add(new SelectListItem
+                {
+                    Text = "Aula 1 - hh:mm dd/mm",
+                    Value = "aula1"
+                });
+    listaAulas.Add(new SelectListItem
+                {
+                    Text = "Aula 2 - hh:mm dd/mm",
+                    Value = "aula2",
+                });
+    listaAulas.Add(new SelectListItem
+                {
+                    Text = "Aula 3 - hh:mm dd/mm",
+                    Value = "aula3"
+                });
+
+    @Html.ListBox("listaAulas", listaAulas, new { @class = "form-control" })
+
+    <input type="submit" value="Confirmar" />
+    <input type="submit" value="Recusar" />
+
+}
