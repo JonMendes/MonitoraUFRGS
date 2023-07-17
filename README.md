@@ -1,2 +1,3 @@
 # MonitoraUFRGS
-Proposta de sistema de gerenciamento de monitorias
+Proposta de sistema para o gerenciamento de monitorias da UFRGS.
+Este trabalho foi desenvolvido no contexto da disciplina de Engenharia de Software, e foram implementados três casos de uso da aplicação com propósito de prototipagem.
