@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm("SolicitarAula", "Aula", FormMethod.Post))
+{
+    <div>
+        @Html.Label("Data")
+        @Html.TextBox("Data", null, new { type = "date" })
+    </div>
+
+    <div>
+        @Html.Label("Hora de Início")
+        @Html.TextBox("HoraInicio", null, new { type = "time" })
+    </div>
+
+    <div>
+        @Html.Label("Disciplina")
+        @Html.TextBox("Disciplina")
+    </div>
+
+    <input type="submit" value="Solicitar Aula" />
+}

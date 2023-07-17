@@ -1,16 +1,27 @@
-﻿namespace MonitoraUFRGS_APP.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace MonitoraUFRGS_APP.Models
 {
   public class Monitor
   {
-    // Atributos
+        // Atributos
+    [Key]
     private int _idAluno;
+    [Column("nome")]
     private string _nome;
+    [Column("curso")]
     private string _curso;
+    [Column("disciplinaMonitoria")]
     private string _disciplinaMonitoria;
+    [Column("nome")]
     private List<Tuple<DateTime, DateTime>> _horariosDisponiveis;
+    [ForeignKey("orientador")]
     private int _idOrientador;
 
-    // Construtor
+    public virtual Professor orientador { get; set; }
+
+        // Construtor
     public Monitor() { }
 
     // Metodos

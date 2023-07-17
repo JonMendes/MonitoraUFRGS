@@ -1,11 +1,19 @@
-﻿namespace MonitoraUFRGS_APP.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace MonitoraUFRGS_APP.Models
 {
-  public class Aluno
+    [Table("aluno")]
+    public class Aluno
   {
     // Atributos
+    [Key]
     private int _idAluno;
+    [Column("nome")]
     private string _nome;
+    [Column("curso")]
     private string _curso;
+    [Column("disciplinasMatriculadas")]
     private List<string> _disciplinasMatriculadas;
 
     // Construtor
